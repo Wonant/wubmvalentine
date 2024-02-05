@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wubmvalentine/static/css/main.9541a1f7.css",
+    "main.js": "/wubmvalentine/static/js/main.b6792593.js",
+    "static/js/592.5d6f431c.chunk.js": "/wubmvalentine/static/js/592.5d6f431c.chunk.js",
+    "index.html": "/wubmvalentine/index.html",
+    "main.9541a1f7.css.map": "/wubmvalentine/static/css/main.9541a1f7.css.map",
+    "main.b6792593.js.map": "/wubmvalentine/static/js/main.b6792593.js.map",
+    "592.5d6f431c.chunk.js.map": "/wubmvalentine/static/js/592.5d6f431c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9541a1f7.css",
+    "static/js/main.b6792593.js"
+  ]
+}
